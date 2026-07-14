@@ -1,6 +1,5 @@
 Data Analytics Project
 
-🔹 Overview
 This project explores a retail dataset using pandas and matplotlib inside an Anaconda virtual environment (task2).  
 The goal is to clean the data, analyze numeric and categorical columns, and visualize distributions, correlations, and business insights.
 
